@@ -9,6 +9,14 @@ h1 {
   font-weight:300;
   letter-spacing: 2px;
   font-size:48px;
+  display: block; 
+}
+h3 {
+  font-family: 'Lato', sans-serif;
+  font-weight:300;
+  letter-spacing: 2px;
+  font-size:28px;
+  display: block; 
 }
 p {
   font-family: 'Lato', sans-serif;
@@ -20,7 +28,7 @@ p {
 .header {
   position:relative;
   text-align:center;
-  background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%);
+  background: linear-gradient(60deg, rgba(2,71,94,1) 0%, rgba(0,172,193,1) 100%);
   color:white;
 }
 .logo {
@@ -36,6 +44,7 @@ p {
   width:100%;
   margin: 0;
   padding: 0;
+  display: block; 
 }
 
 .flex { /*Flexbox for containers*/
@@ -103,3 +112,4 @@ p {
     font-size:24px;
   }
 }
+/* Arrow  Related */

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 this is a container of all the scripts/codes that I write :)
 
 <!--
 **trishanatanael/trishanatanael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
